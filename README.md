@@ -12,15 +12,6 @@ On my GitHup repository, you will find **my best projects during my studies at 4
 - UNIX programming (C/Rust)  
 - Microcontroller programming (C)  
 - Kernel, Backend, Video Game developpement (Rust)
-  
-
-Take a look :thumbsup:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebosson)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
 <!--
 **llefranc/llefranc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
