@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Hi, I'm Benjamin ! 👋
 
 - :computer: I'm a french developper living in Paris
@@ -11,9 +9,10 @@
 
 On my GitHup repository, you will find **my best projects during my studies at 42 school** among the following categories:  
 
+- UNIX programming (C/Rust)  
 - Microcontroller programming (C)  
-- UNIX programming (C/C++)  
-- Network / DevOps  
+- Kernel, Backend, Video Game developpement (Rust)
+  
 
 Take a look :thumbsup:
 
