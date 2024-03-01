@@ -16,7 +16,7 @@ On my GitHup repository, you will find **my best projects during my studies at 4
 
 Take a look :thumbsup:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebosson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bebosson)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
